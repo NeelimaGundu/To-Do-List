@@ -1,11 +1,5 @@
 # To-Do-List
 
-THE CODE CONTAINS :
-FUNCTIONS :
-   READNTHLINE() -> THAT RETURNS NTH LINE
-   COUNTING() -> THAT COUNTS THE NO.OF LINES IN A FILE
-   DELETELINE() -> THAT DELETES NTH LINE 
-
 # Usage
 Open the app using Command Prompt and execute any command as listed below.
 
